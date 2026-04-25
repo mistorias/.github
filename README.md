@@ -2,7 +2,7 @@
 
 **Historias para transformar la educación.**
 
-***
+***
 
 ## ¿Qué es Mistorias?
 
